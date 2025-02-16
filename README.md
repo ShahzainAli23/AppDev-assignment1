@@ -5,7 +5,6 @@ This is a Flutter project for the App Development assignment.
 ## Features
 - Flutter-based mobile application
 - Implements core Flutter widgets
-- Uses `path_provider_android` package for file storage
 
 ## Getting Started
 
