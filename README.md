@@ -1,16 +1,51 @@
-# assignment1
+# AppDev Assignment 1
 
-A new Flutter project.
+This is a Flutter project for the App Development assignment.
+
+## Features
+- Flutter-based mobile application
+- Implements core Flutter widgets
+- Uses `path_provider_android` package for file storage
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+Ensure you have the following installed:
+- Flutter SDK
+- Dart
+- Android Studio or VS Code (with Flutter extension)
+- Git
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/ShahzainAli23/AppDev-assignment1.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd AppDev-assignment1
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Directory Structure
+```
+AppDev-assignment1/
+│── lib/             # Dart source files
+│── android/         # Android-specific files
+│── ios/             # iOS-specific files
+│── pubspec.yaml     # Project configuration
+│── README.md        # Project documentation
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+Feel free to submit issues or pull requests to improve the project.
+
+## License
+This project is for educational purposes only.
